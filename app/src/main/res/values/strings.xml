@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">memeapptask</string>
+<string name="image1_description">Description of the first image</string>
+    <string name="image2_description">Description of the first image</string>
+
+    <string name="my_name_is_khloud">my name is khloud</string>
+</resources>
